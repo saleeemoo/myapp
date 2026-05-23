@@ -58,7 +58,7 @@ echo "
     <p><strong>Host:</strong> {$host}</p>
     <p><strong>Database:</strong> {$db}</p>
 
-    <h3>Auto Deploy Test 🔥</h3>
+    <h3>Auto Deploy 🔥</h3>
 </div>
 
 </body>
