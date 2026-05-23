@@ -51,14 +51,14 @@ echo "
 <body>
 
 <div class='card'>
-    <h1>🚀 Database Connected Successfully</h1>
+    <h1>🚀 Database Successfully</h1>
 
     <p>Application deployed using Coolify</p>
 
     <p><strong>Host:</strong> {$host}</p>
     <p><strong>Database:</strong> {$db}</p>
 
-    <h3>Auto Deploy 🔥</h3>
+    <h3>Autodd Deploy 🔥</h3>
 </div>
 
 </body>
